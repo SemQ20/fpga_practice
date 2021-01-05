@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vclk_div
+Z0 !s110 1609869461
+!i10b 1
+!s100 VcWnDBEVkInNL@;hM@I110
+I?_TN8@]zIK_na:FGBd9dU2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/0x4e6/Desktop/mcp3201_fpga_impl/modelsim
+w1609861926
+8C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/clk_div.v
+FC:/Users/0x4e6/Desktop/mcp3201_fpga_impl/clk_div.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1609869461.000000
+!s107 C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/clk_div.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/clk_div.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmcp3201_driver
+R0
+!i10b 1
+!s100 LW:J:>RR=z7YPfIVf`K902
+I8j][^b9[kJ<Rd89=R8_9f0
+R1
+R2
+w1609869453
+8C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/mcp3201_driver.v
+FC:/Users/0x4e6/Desktop/mcp3201_fpga_impl/mcp3201_driver.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/mcp3201_driver.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/mcp3201_driver.v|
+!i113 1
+R5
+R6
+vmcp_3201_behavior_model
+R0
+!i10b 1
+!s100 NQQWh;>h00`KLUeK^5QGd3
+I;B9;Tcm:lPODo3SGzm_5[1
+R1
+R2
+w1609672344
+8C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/mcp3201_behavior_model.v
+FC:/Users/0x4e6/Desktop/mcp3201_fpga_impl/mcp3201_behavior_model.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/mcp3201_behavior_model.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/mcp3201_behavior_model.v|
+!i113 1
+R5
+R6
+vtb_mcp3201_driver
+R0
+!i10b 1
+!s100 EVBza0IGGU<P`GcaG[Ehl1
+I2[MgGWaz9579be0l_TNK;0
+R1
+R2
+w1609862547
+8C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/tb_mcp3201_driver.v
+FC:/Users/0x4e6/Desktop/mcp3201_fpga_impl/tb_mcp3201_driver.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/tb_mcp3201_driver.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/tb_mcp3201_driver.v|
+!i113 1
+R5
+R6
+vtop_mcp3201
+R0
+!i10b 1
+!s100 =Om7j5olo;lYz3R>]dol>3
+IbYoQC]_6gK0H9^f;2d9>`2
+R1
+R2
+w1609865753
+8C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/top_mcp3201.v
+FC:/Users/0x4e6/Desktop/mcp3201_fpga_impl/top_mcp3201.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/top_mcp3201.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/0x4e6/Desktop/mcp3201_fpga_impl/top_mcp3201.v|
+!i113 1
+R5
+R6
